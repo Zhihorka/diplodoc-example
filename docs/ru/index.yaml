@@ -1,5 +1,7 @@
 title: Шаблон документации
 links:
+  - title: openapi
+    href: openapi/
   - title: О проекте
     href: about.md
   - title: Страница Diplodoc на главной странице
